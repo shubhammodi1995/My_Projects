@@ -6,4 +6,4 @@ This repository contains several Quantitative Strategies that I have developed o
 
 These are a combination of portfolio optimization, long-short strategies, short-term trading strategies among other really fun stuff!
 
-Do reach out if you hae any comments/suggestions.
+Do reach out if you have any comments/suggestions.
